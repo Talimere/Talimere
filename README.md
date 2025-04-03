@@ -1,4 +1,4 @@
-## Hi! I'm Kai <HTML/>
+## Hi! I'm Kai HTML, a software consultant based in Oslo, Norway
 
 <!--
 **Talimere/Talimere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
