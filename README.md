@@ -1,16 +1,17 @@
-## Hi! I'm Kai HTML, a software consultant based in Oslo, Norway
+# Kai `<HTML/>` 
 
-<!--
-**Talimere/Talimere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Kai Håvard Talimere *Magician* Langhaug — but most people just call me **Kai HTML**.  
+Yes, that’s really my name, and yes, I write actual HTML too. 😄
 
-Here are some ideas to get you started:
+I'm a software consultant, full-stack with a primary focus on back-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Kotlin, Java, JavaScript/TypeScript
+- React, Tailwind
+- Spring Boot, REST APIs
+- PostgreSQL, MongoDB
+- Docker, Jenkins, Git
+- And of course: HTML, CSS 😉
+
+## 🔗 Connect with me
+- 💼 [LinkedIn – /in/html](https://www.linkedin.com/in/html)
