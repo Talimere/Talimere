@@ -13,5 +13,8 @@ I'm a software consultant, full-stack with a primary focus on back-end developme
 - Docker, Jenkins, Git
 - And of course: HTML, CSS 😉
 
+## 💻 Projects
+- [Kotlin Starter - A Spring Boot starter for Kotlin](https://github.com/Talimere/kotlin-starter)
+
 ## 🔗 Connect with me
 - 💼 [LinkedIn – /in/html](https://www.linkedin.com/in/html)
